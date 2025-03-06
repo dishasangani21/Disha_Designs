@@ -95,7 +95,7 @@ img{
 }
 
 @media (max-widh:450px){
-	.navbar-brand{
+	.navbar-brand img{
 		width:245px !important;
 	}
 }
