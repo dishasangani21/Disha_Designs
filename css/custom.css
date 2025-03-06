@@ -94,7 +94,7 @@ img{
 	max-width: 100%;
 }
 
-@media (max-width:450px){
+@media only screen and (max-width: 450px){
 	.navbar-brand img{
 		width:245px !important;
 	}
