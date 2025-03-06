@@ -94,6 +94,12 @@ img{
 	max-width: 100%;
 }
 
+@media (max-widh:450px){
+	.navbar-brand{
+		width:245px !important;
+	}
+}
+
 a{
 	text-decoration: none;
 }
